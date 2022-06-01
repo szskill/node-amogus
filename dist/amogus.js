@@ -1,7 +1,7 @@
 /**
  * node-amogus
  * @author sz_skill and other contributors 🎉
- * @version 0.0.6
+ * @version 0.0.7
  */
 
 // It's beautiful
